@@ -210,12 +210,15 @@ color: #434455;
 .our-team {
     background-color: #F4F4FD;
     padding-top: 120px;
+    padding-bottom: 120px;
     margin-bottom: 72px;
+
 }
 .team-item {
     background-color: #fff;
     width: calc((100% - 72px) / 4);
-    border-radius: 0px 0px 4px 4px;}
+    border-radius: 0px 0px 4px 4px;
+}
 
 .our-team-title {
 color: #2e2f42;
@@ -229,11 +232,13 @@ color: #2e2f42;
 }
 
 .our-team-subtitle {
-    color: #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+color: #2e2f42;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    margin-bottom: 8px;
 }
 
 .our-team-list {
@@ -248,16 +253,20 @@ background-color: #FFF;
 }
 
 .our-team-item-text {
-    color: #434455;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+color: #434455;
+text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    padding-bottom: 32px;
 }
 
 
 /*===================<section our portfolio>=====================*/
 .our-portfolio {
-
+padding-top: 120px;
+padding-bottom: 120px
 }
 
 .our-portfolio-title {
@@ -278,20 +287,22 @@ color: #2e2f42;
     row-gap: 48px;
 }
 .our-portfolio-subtitle {
-    color:#2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    margin-bottom: 8px;
 }
 
 .our-portfolio-item-text {
-    color: #434455;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #E7E9FC;
 }
 .portfolio-img{
     
