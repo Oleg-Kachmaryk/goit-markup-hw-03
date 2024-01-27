@@ -230,7 +230,10 @@ color: #2e2f42;
     line-height: 1.11;
     margin-bottom: 72px;
 }
-
+.servise-text{
+padding-top: 32px;
+padding-bottom: 32px;
+}
 .our-team-subtitle {
 color: #2e2f42;
     text-align: center;
