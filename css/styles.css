@@ -25,6 +25,10 @@ ul, ol {
 }
 .header {
 border-bottom: 1px solid #E7E9FC;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 24px;
+padding-bottom: 24px;
 }
 .header-container{
     display: flex;
@@ -121,7 +125,7 @@ color: #fff;
     letter-spacing: 0.64px;
     background-color: #4d5ae5;
     text-transform: capitalize;
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto",sans-serif;
     cursor: pointer;
     padding: 16px 32px;
     border-radius: 4px;
