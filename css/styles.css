@@ -23,6 +23,9 @@ ul, ol {
     padding-right: 15px;
     margin: 0 auto
 }
+img {
+    display: block;
+}
 .header {
 border-bottom: 1px solid #E7E9FC;
 padding-left: 15px;
