@@ -334,6 +334,8 @@ color: #4D5AE5;
         text-transform: uppercase;
         line-height: 1.17;
         margin-right: 76px;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 
 .footer-logo-part {
@@ -345,6 +347,8 @@ color: #4D5AE5;
         text-transform: uppercase;
         line-height: 1.17;
         margin-right: 76px;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 
